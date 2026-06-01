@@ -1,17 +1,9 @@
 # solo_assigment_one
 
-A new Flutter project.
+**Loom Link** - https://www.loom.com/share/960c6ca7110c44fc8c2283acd11281e8
 
-## Getting Started
+## Description
+My app features two pages featuring different functions of folded paper. The user can navigate between Three different pages using a forward and back button.
+It is run using an android emulator. I made all pages blue and included an image for each included type of folded paper.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Note** - There is a bug on my end when I change code and the emulator doesn't work anymore. I'm unsure whether this is the case overall, but I have been unable to identify what is causing this issue.

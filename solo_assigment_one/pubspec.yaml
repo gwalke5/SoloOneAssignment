@@ -61,6 +61,7 @@ flutter:
   assets:
     - assets/images.jpg
     - assets/Origami-crane.jpg
+    - assets/cookie-catchers.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
